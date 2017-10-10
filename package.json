@@ -7,6 +7,6 @@
     "ws": "^1.0.1"
   },
   "scripts": {
-    "start": "node server.js -b 0.0.0.0"
+    "start": "node server.js -b ::"
   }
 }
